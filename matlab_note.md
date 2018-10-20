@@ -18,6 +18,13 @@ C =
      0     0
      0     0
      0     0
+### take part of matrix
+D = B(:,2:end)
+D =
+
+     1     2     3
+     4     5     6
+
 ### Specialized Matrix Functions
 A = zeros(3,2)
 A =
